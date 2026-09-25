@@ -1,7 +1,20 @@
 body {background-color: beige;}
-h1 {color: rgb(135, 124, 27);}
-p {
-    color: rgb(216, 45, 173);
+h1 {color: rgb(135, 124, 27);
+    text-align: center;
+    font-size: 40pt;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-style: italic;}
+p {color: rgb(216, 45, 173);
     background-color: rgb(216, 246, 236);
     padding: 0.5em;
-    margin: 2 em;}
+    margin: auto;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    text-align: center;
+    border: 2px solid rgb(45, 26, 1);
+    width: 50;
+    min-width: 30em;}
+div {text-align: center;}
+a {color: rgb(100, 41, 18);
+    text-decoration: none;}
