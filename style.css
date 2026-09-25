@@ -1,3 +1,7 @@
 body {background-color: beige;}
 h1 {color: rgb(135, 124, 27);}
-p {color: rgb(216, 45, 173);}
+p {
+    color: rgb(216, 45, 173);
+    background-color: rgb(216, 246, 236);
+    padding: 0.5em;
+    margin: 2 em;}
