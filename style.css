@@ -5,7 +5,8 @@ h1 {color: rgb(135, 124, 27);
     font-weight: normal;
     font-family: sans-serif;
     font-style: italic;}
-p {color: rgb(216, 45, 173);
+p {
+    color: rgb(216, 45, 173);
     background-color: rgb(216, 246, 236);
     padding: 0.5em;
     margin: auto;
@@ -14,7 +15,25 @@ p {color: rgb(216, 45, 173);
     text-align: center;
     border: 2px solid rgb(45, 26, 1);
     width: 50;
-    min-width: 30em;}
-div {text-align: center;}
-a {color: rgb(100, 41, 18);
-    text-decoration: none;}
+    min-width: 30em;
+    }
+.kanan {text-align: right;}
+.kiri {text-align: left;}
+.tengah {text-align: center;}
+
+.bghijau {background-color: rgb(151, 182, 171);}
+.bgkuning {background-color: rgb(248, 246, 210);}
+.bgpink {background-color: rgb(248, 217, 247);}
+.bgoren {background-color: rgb(255, 241, 224);}
+.bgungu {background-color: rgb(228, 194, 240);}
+.bgbiru {background-color: rgb(188, 222, 247);}
+.bgabu {background-color: rgb(93, 94, 93);}
+.bgneon {background-color: rgb(100, 250, 122);}
+.bgcoklat {background-color: rgb(130, 91, 91);}
+div {
+    text-align: center;
+    }
+a {
+    color: rgb(100, 41, 18);
+    text-decoration: none;
+    }
